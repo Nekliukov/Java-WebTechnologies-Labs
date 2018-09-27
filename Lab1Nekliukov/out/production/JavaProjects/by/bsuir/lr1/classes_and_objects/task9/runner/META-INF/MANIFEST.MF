@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: busir.webtech_labs.lr1.classes_and_objects.basket_console_
+ application.src.com.company.Main
+
